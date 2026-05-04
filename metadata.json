@@ -1,0 +1,6 @@
+{
+  "name": "Remontada Tech Store",
+  "description": "Tech Gadgets Store built with React, Vite, Tailwind CSS, containing Landing page, item browsing, and Firebase Authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

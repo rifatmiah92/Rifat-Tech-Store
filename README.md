@@ -3,7 +3,7 @@
 This is a professional Gadget Store application built with **Next.js (App Router)**, **Tailwind CSS**, and **Firebase Authentication**. The app features a clean UI, responsive design, and protected management routes.
 
 ## 🚀 Live Demo
-[Insert Your Vercel Link Here] (e.g., https://remontada-task-gadget.vercel.app)
+ Link : https://rifat-tech-store-bd.netlify.app/
 
 ## ✨ Key Features
 - **Firebase Authentication**: Secure Email/Password and Google Login.
@@ -31,11 +31,3 @@ This is a professional Gadget Store application built with **Next.js (App Router
 | `/items/add` | **Protected** | Form to add new products. |
 | `/items/manage`| **Protected** | Dashboard to view and delete products. |
 
-## ⚙️ Setup & Installation
-
-Follow these steps to run the project locally:
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-   cd your-repo-name
